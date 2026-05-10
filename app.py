@@ -64,7 +64,8 @@ if uploaded_files:
             "KODE_DESA",
             "DESA",
             "ANOMALI",
-            "Link"
+            "LINK",
+            "CATATAN"
         ]
 
         all_df = []
